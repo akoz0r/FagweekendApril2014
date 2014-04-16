@@ -16,7 +16,7 @@ On Windows:
 1. Download and install Nginx.
 2. Run the following commands:
 
-	> ??
+    > ??
 
 On OS X:
 
