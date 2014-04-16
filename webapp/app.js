@@ -1,10 +1,11 @@
 $(document).ready(function() {
-    var $button = $("#request");
+    var $form = $("#request");
     var $token = $("#token");
     var $response = $("#response");
     var $responseOut = $("#response-out");
 
-    $button.click(function() {
+    $form.submit(function(e) {
+	e.preventDefault();
 	var token = $token.val();
 	$.ajax({
 	    url: "/api/v1/users",
