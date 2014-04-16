@@ -20,7 +20,12 @@ On Windows:
 
 On OS X:
 
-    > ??
+1. Install homebrew (http://brew.sh/)
+    $ ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+2. Install nginx
+    $ brew install nginx
+3. Start nginx (from the folder where you cloned the repo). Ignore error messages regarding log access.
+    $ nginx -p nginx -c nginx.conf
 
 Test that it works by opening <http://localhost:8888>. Verify that it
 serves `webapp/index.html`. Then test the REST API by following the
