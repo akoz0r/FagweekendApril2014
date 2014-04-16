@@ -8,7 +8,7 @@ Clone this repo and open a terminal / command line in its directory.
 
 On Linux (Debian and possibly its derivatives):
 
-    $ apt-get install nginx
+    $ apt-get install nginx-light
     $ /usr/sbin/nginx -p nginx -c nginx.conf
 
 On Windows:
