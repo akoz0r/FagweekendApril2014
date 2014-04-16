@@ -13,7 +13,7 @@ On Linux (Debian and possibly its derivatives):
 
 On Windows:
 
-1. Download and install Nginx.
+1. Download and install Nginx from <http://nginx.org/en/download.html>.
 2. Run the following commands:
 
     > ??
