@@ -13,10 +13,11 @@ On Linux (Debian and possibly its derivatives):
 
 On Windows:
 
-1. Download and install Nginx from <http://nginx.org/en/download.html>.
-2. Run the following commands:
+1. Download Nginx 1.6 from <http://nginx.org/en/download.html>.
+2. Unzip Nginx into c:\nginx
+3. Start Nginx with the following command (from the folder of the cloned repo):
 
-    > ??
+    > c:\nginx\nginx.exe -p nginx -c nginx.conf
 
 On OS X:
 
@@ -28,7 +29,7 @@ Install nginx
 
     $ brew install nginx
 
-Start nginx (from the folder where you cloned the repo). Ignore error messages regarding log access.
+Start nginx (from the folder of the cloned repo). Ignore error messages regarding log access.
 
     $ nginx -p nginx -c nginx.conf
 
