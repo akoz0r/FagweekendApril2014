@@ -44,7 +44,7 @@ instructions in the web page.
 
 # Results
 
-## Group 2
+## Group 42
 
 Jan Terje, Ørjan, Steffen and Stig Inge
 
