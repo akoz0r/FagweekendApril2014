@@ -18,7 +18,9 @@ On Windows:
 3. Edit `nginx\nginx.conf`, uncomment the settings for the uwsgi and scgi modules.
 4. Start Nginx with the following command (from the folder of the cloned repo):
 
-    > c:\nginx\nginx.exe -p nginx -c nginx.conf
+```bat
+c:\nginx\nginx.exe -p nginx -c nginx.conf
+```
 
 On OS X:
 
