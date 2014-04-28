@@ -38,3 +38,10 @@ Test that it works by opening <http://localhost:8888>. Verify that it
 serves `webapp/index.html`. Then test the REST API by following the
 instruction in the web page.
 
+# Results
+
+## Group 2
+
+Jan Terje, Ørjan, Steffen and Stig Inge
+
+* A partially implemented Java / Dropwizard based REST API for extracting the timeline of a user: <https://github.com/mrsteffenjo/cvpartner-timeline-backend>.
