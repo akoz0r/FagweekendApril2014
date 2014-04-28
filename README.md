@@ -49,3 +49,9 @@ instructions in the web page.
 Jan Terje, Ørjan, Steffen and Stig Inge
 
 * A partially implemented Java / Dropwizard based REST API for extracting the timeline of a user: <https://github.com/mrsteffenjo/cvpartner-timeline-backend>.
+
+## Group 43
+
+Øystein, Geir, Ragnar, Jahn Even og Lisbeth
+
+* Company search delivering projects with contributing consultants and their role: <https://github.com/LSkogland/cvpartner-bedriftsok>.
