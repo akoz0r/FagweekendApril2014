@@ -44,6 +44,12 @@ instructions in the web page.
 
 # Results
 
+## Group 41
+
+Benny, Johan Herman, Jostein
+
+* An experimental AngularJS implementation extracting CV data: <https://github.com/jostein-topland/codejam/tree/master/js/webstep-fagkveld-apr-2014>.
+
 ## Group 42
 
 Jan Terje, Ørjan, Steffen and Stig Inge
